@@ -6,7 +6,7 @@ A desktop application built with C# and .NET Framework 4.0 that identifies speak
 - Record or upload audio
 - Extract MFCC features and remove silence
 - Match using DTW or DTW with pruning
-- Load/save data as CSV or JSON
+- Load/save data as JSON
 - Show match distance, processing time, and accuracy
 
 
