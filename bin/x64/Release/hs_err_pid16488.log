@@ -1,0 +1,243 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00000000a005490d, pid=16488, tid=24180
+#
+# JRE version: 6.0_17-b04
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (14.3-b01 mixed mode windows-amd64 )
+# Problematic frame:
+# J  java.lang.String.hashCode()I
+#
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000000001ca75000):  JavaThread "main" [_thread_in_Java, id=24180, stack(0x000000007e7c0000,0x000000007efc0000)]
+
+siginfo: ExceptionCode=0xc0000005, reading address 0x000000011fe80000
+
+Registers:
+EAX=0x00000000cb06892b, EBX=0x00000000a2ffe480, ECX=0x00000000a3121e68, EDX=0x00000000a3121e68
+ESP=0x000000007efbcd58, EBP=0x000000007efbcdc0, ESI=0x0000000000000001, EDI=0x00000000a3000ed8
+EIP=0x00000000a005490d, EFLAGS=0x0000000000010206
+
+Top of Stack: (sp=0x000000007efbcd58)
+0x000000007efbcd58:   000000009fff59ae 000000009fff59ae
+0x000000007efbcd68:   00000000a3121e68 0000000000000001
+0x000000007efbcd78:   00000000c2ff1370 000000007efbcd70
+0x000000007efbcd88:   00000000a3040386 000000007efbcdf8
+0x000000007efbcd98:   00000000a30b9548 0000000000000000
+0x000000007efbcda8:   00000000a30403c8 000000007efbcd68
+0x000000007efbcdb8:   000000007efbcdf0 000000007efbce40
+0x000000007efbcdc8:   000000009fff5969 0000000000000000
+0x000000007efbcdd8:   0000000000000000 0000000000000000
+0x000000007efbcde8:   00000000c2ff38d8 00000000a3121e68
+0x000000007efbcdf8:   00000000c2ff1370 000000007efbce00
+0x000000007efbce08:   00000000a303c332 000000007efbce68
+0x000000007efbce18:   00000000a30b9da8 0000000000000000
+0x000000007efbce28:   00000000a303c360 000000007efbcdf0
+0x000000007efbce38:   000000007efbce60 000000007efbceb0
+0x000000007efbce48:   000000009fff5969 0000000000000000 
+
+Instructions: (pc=0x00000000a005490d)
+0x00000000a00548fd:   7c dd 4c 8b 54 24 08 41 89 42 20 48 83 c4 40 5d
+0x00000000a005490d:   85 05 ed b6 e2 7f c3 33 c0 eb e7 41 8b ea ff c5 
+
+
+Stack: [0x000000007e7c0000,0x000000007efc0000],  sp=0x000000007efbcd58,  free space=8179k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+J  java.lang.String.hashCode()I
+j  java.util.Properties.getProperty(Ljava/lang/String;)Ljava/lang/String;+2
+j  java.lang.System.getProperty(Ljava/lang/String;)Ljava/lang/String;+21
+j  sun.security.action.GetPropertyAction.run()Ljava/lang/String;+4
+j  sun.security.action.GetPropertyAction.run()Ljava/lang/Object;+1
+v  ~StubRoutines::call_stub
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x00000000cb0df000 JavaThread "Low Memory Detector" daemon [_thread_blocked, id=3528, stack(0x0000000000610000,0x0000000000690000)]
+  0x00000000cb0dd800 JavaThread "CompilerThread1" daemon [_thread_blocked, id=15248, stack(0x0000000000510000,0x0000000000610000)]
+  0x00000000cb0dd000 JavaThread "CompilerThread0" daemon [_thread_blocked, id=16820, stack(0x0000000000410000,0x0000000000510000)]
+  0x00000000cb0dc000 JavaThread "Attach Listener" daemon [_thread_blocked, id=18204, stack(0x0000000000390000,0x0000000000410000)]
+  0x00000000cb0a2800 JavaThread "Finalizer" daemon [_thread_blocked, id=3876, stack(0x0000000000310000,0x0000000000390000)]
+  0x00000000cb09c000 JavaThread "Reference Handler" daemon [_thread_blocked, id=9324, stack(0x000000007fef0000,0x000000007ff70000)]
+=>0x000000001ca75000 JavaThread "main" [_thread_in_Java, id=24180, stack(0x000000007e7c0000,0x000000007efc0000)]
+
+Other Threads:
+  0x00000000cb097800 VMThread [stack: 0x0000000000210000,0x0000000000310000] [id=12940]
+  0x00000000cb0ee800 WatcherThread [stack: 0x0000000000690000,0x0000000000790000] [id=17016]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap
+ PSYoungGen      total 14336K, used 983K [0x00000000c2ff0000, 0x00000000c3ff0000, 0x00000000caff0000)
+  eden space 12288K, 8% used [0x00000000c2ff0000,0x00000000c30e5f48,0x00000000c3bf0000)
+  from space 2048K, 0% used [0x00000000c3df0000,0x00000000c3df0000,0x00000000c3ff0000)
+  to   space 2048K, 0% used [0x00000000c3bf0000,0x00000000c3bf0000,0x00000000c3df0000)
+ PSOldGen        total 49152K, used 0K [0x00000000aaff0000, 0x00000000adff0000, 0x00000000c2ff0000)
+  object space 49152K, 0% used [0x00000000aaff0000,0x00000000aaff0000,0x00000000adff0000)
+ PSPermGen       total 32768K, used 2250K [0x00000000a2ff0000, 0x00000000a4ff0000, 0x00000000aaff0000)
+  object space 32768K, 6% used [0x00000000a2ff0000,0x00000000a3222a90,0x00000000a4ff0000)
+
+Dynamic libraries:
+0x0000000000b80000 - 0x0000000000c46000 	E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe
+0x00007ff84beb0000 - 0x00007ff84c0a8000 	C:\Windows\SYSTEM32\ntdll.dll
+0x00007ff836180000 - 0x00007ff8361e5000 	C:\Windows\SYSTEM32\MSCOREE.DLL
+0x00007ff84b6e0000 - 0x00007ff84b7a2000 	C:\Windows\System32\KERNEL32.dll
+0x00007ff849520000 - 0x00007ff849816000 	C:\Windows\System32\KERNELBASE.dll
+0x00007ff84b8f0000 - 0x00007ff84b99f000 	C:\Windows\System32\ADVAPI32.dll
+0x00007ff84a230000 - 0x00007ff84a2ce000 	C:\Windows\System32\msvcrt.dll
+0x00007ff84a190000 - 0x00007ff84a22f000 	C:\Windows\System32\sechost.dll
+0x00007ff84a2d0000 - 0x00007ff84a3f3000 	C:\Windows\System32\RPCRT4.dll
+0x00007ff849820000 - 0x00007ff849847000 	C:\Windows\System32\bcrypt.dll
+0x00007ff835960000 - 0x00007ff8359fb000 	C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll
+0x00007ff84b890000 - 0x00007ff84b8e5000 	C:\Windows\System32\SHLWAPI.dll
+0x00007ff847d40000 - 0x00007ff847d52000 	C:\Windows\SYSTEM32\kernel.appcore.dll
+0x00007ff843fe0000 - 0x00007ff843fea000 	C:\Windows\SYSTEM32\VERSION.dll
+0x00007ff834f30000 - 0x00007ff8358d4000 	C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll
+0x00007ff84a400000 - 0x00007ff84a59d000 	C:\Windows\System32\USER32.dll
+0x00007ff849e80000 - 0x00007ff849ea2000 	C:\Windows\System32\win32u.dll
+0x00007ff84a160000 - 0x00007ff84a18b000 	C:\Windows\System32\GDI32.dll
+0x00007ff849bf0000 - 0x00007ff849d0a000 	C:\Windows\System32\gdi32full.dll
+0x00007ff849de0000 - 0x00007ff849e7d000 	C:\Windows\System32\msvcp_win.dll
+0x00007ff849850000 - 0x00007ff849950000 	C:\Windows\System32\ucrtbase.dll
+0x00007ff834f20000 - 0x00007ff834f2c000 	C:\Windows\SYSTEM32\VCRUNTIME140_1_CLR0400.dll
+0x00007ff834f00000 - 0x00007ff834f1b000 	C:\Windows\SYSTEM32\VCRUNTIME140_CLR0400.dll
+0x00007ff834e30000 - 0x00007ff834efd000 	C:\Windows\SYSTEM32\ucrtbase_clr0400.dll
+0x00007ff849f80000 - 0x00007ff849faf000 	C:\Windows\System32\IMM32.DLL
+0x00007ff833680000 - 0x00007ff834c8f000 	C:\Windows\assembly\NativeImages_v4.0.30319_64\mscorlib\8967064a93c70884749ad00de74dd7a1\mscorlib.ni.dll
+0x00007ff84ba20000 - 0x00007ff84bb4b000 	C:\Windows\System32\ole32.dll
+0x00007ff84b380000 - 0x00007ff84b6d3000 	C:\Windows\System32\combase.dll
+0x00007ff849950000 - 0x00007ff8499d2000 	C:\Windows\System32\bcryptPrimitives.dll
+0x00007ff846960000 - 0x00007ff8469fe000 	C:\Windows\system32\uxtheme.dll
+0x00007ff833540000 - 0x00007ff83366f000 	C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll
+0x00007ff832000000 - 0x00007ff832c22000 	C:\Windows\assembly\NativeImages_v4.0.30319_64\System\38ec7cdda997194850af73f2af3f7cc2\System.ni.dll
+0x00007ff80a330000 - 0x00007ff80a523000 	C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Drawing\34c8b2ebd3970acedafd0aa43ce6af68\System.Drawing.ni.dll
+0x00007ff806110000 - 0x00007ff8071fd000 	C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Windows.Forms\1d6c9516bcf56d5ca8ac296c680f5aea\System.Windows.Forms.ni.dll
+0x00007ff848ea0000 - 0x00007ff848eb8000 	C:\Windows\SYSTEM32\CRYPTSP.dll
+0x00007ff848560000 - 0x00007ff848598000 	C:\Windows\system32\rsaenh.dll
+0x00007ff848ec0000 - 0x00007ff848ecc000 	C:\Windows\SYSTEM32\CRYPTBASE.dll
+0x00007ff8306b0000 - 0x00007ff831135000 	C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Core\d991ec157fc0c20e780520882bd905de\System.Core.ni.dll
+0x00007ff82dfa0000 - 0x00007ff82e0d3000 	C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Configuration\396d4b88ac3a0c8e078826d9b813a560\System.Configuration.ni.dll
+0x00007ff82d5e0000 - 0x00007ff82de91000 	C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Xml\11878ca3c2b7148bb44e82ad2e35c433\System.Xml.ni.dll
+0x00007ff84a630000 - 0x00007ff84ad9e000 	C:\Windows\System32\shell32.dll
+0x00007ff8471c0000 - 0x00007ff847963000 	C:\Windows\SYSTEM32\windows.storage.dll
+0x00007ff848f50000 - 0x00007ff848f7b000 	C:\Windows\SYSTEM32\Wldp.dll
+0x00007ff849eb0000 - 0x00007ff849f7d000 	C:\Windows\System32\OLEAUT32.dll
+0x00007ff84bb60000 - 0x00007ff84bc0d000 	C:\Windows\System32\SHCORE.dll
+0x00007ff849450000 - 0x00007ff849475000 	C:\Windows\SYSTEM32\profapi.dll
+0x00007ff82b1b0000 - 0x00007ff82b260000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.4355_none_792ecafd2442822f\comctl32.dll
+0x00007ff84bd20000 - 0x00007ff84be35000 	C:\Windows\System32\MSCTF.dll
+0x00007ff83d8b0000 - 0x00007ff83da55000 	C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.5794_none_91a7c616cc84f20a\gdiplus.dll
+0x00007ff83c860000 - 0x00007ff83cadf000 	C:\Windows\SYSTEM32\DWrite.dll
+0x00007ff837870000 - 0x00007ff83791c000 	C:\Windows\System32\TextShaping.dll
+0x00007ff846710000 - 0x00007ff8468c4000 	C:\Windows\SYSTEM32\WindowsCodecs.dll
+0x00007ff83db50000 - 0x00007ff83ddea000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.5794_none_60bcd33171f2783c\comctl32.dll
+0x00007ff83ff30000 - 0x00007ff840029000 	C:\Windows\SYSTEM32\textinputframework.dll
+0x00007ff845cd0000 - 0x00007ff845dc2000 	C:\Windows\System32\CoreMessaging.dll
+0x00007ff8455f0000 - 0x00007ff84594b000 	C:\Windows\System32\CoreUIComponents.dll
+0x00007ff84b220000 - 0x00007ff84b28b000 	C:\Windows\System32\WS2_32.dll
+0x00007ff8487b0000 - 0x00007ff8487e3000 	C:\Windows\SYSTEM32\ntmarta.dll
+0x00007ff8447f0000 - 0x00007ff844947000 	C:\Windows\SYSTEM32\wintypes.dll
+0x00007ff84bc70000 - 0x00007ff84bd19000 	C:\Windows\System32\clbcatq.dll
+0x00007ff84b290000 - 0x00007ff84b36a000 	C:\Windows\System32\comdlg32.dll
+0x00007ff803880000 - 0x00007ff803a2e000 	C:\Windows\System32\DUI70.dll
+0x00007fff6bad0000 - 0x00007fff6bb65000 	C:\Windows\System32\DUser.dll
+0x00007ff846ce0000 - 0x00007ff846d0f000 	C:\Windows\System32\dwmapi.dll
+0x00007fffb1e90000 - 0x00007fffb1f39000 	C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll
+0x00007ff8283a0000 - 0x00007ff8283c4000 	C:\Windows\SYSTEM32\edputil.dll
+0x00007ff821ef0000 - 0x00007ff822148000 	C:\Windows\system32\explorerframe.dll
+0x00007ff844a40000 - 0x00007ff845000000 	C:\Windows\system32\d2d1.dll
+0x00007ff822750000 - 0x00007ff8227b7000 	C:\Windows\System32\thumbcache.dll
+0x00007ff843dc0000 - 0x00007ff843e61000 	C:\Windows\SYSTEM32\policymanager.dll
+0x00007ff8485f0000 - 0x00007ff84867a000 	C:\Windows\SYSTEM32\msvcp110_win.dll
+0x00007ff8227c0000 - 0x00007ff8227fe000 	C:\Windows\system32\dataexchange.dll
+0x00007ff845350000 - 0x00007ff845534000 	C:\Windows\system32\dcomp.dll
+0x00007ff845000000 - 0x00007ff845264000 	C:\Windows\system32\d3d11.dll
+0x00007ff847db0000 - 0x00007ff847ea6000 	C:\Windows\system32\dxgi.dll
+0x00007ff841c40000 - 0x00007ff841e43000 	C:\Windows\system32\twinapi.appcore.dll
+0x00007ff83c6b0000 - 0x00007ff83c856000 	C:\Windows\System32\Windows.Globalization.dll
+0x00007ff83fd50000 - 0x00007ff83fd7d000 	C:\Windows\System32\bcp47mrm.dll
+0x00007ff840420000 - 0x00007ff84047b000 	C:\Windows\System32\Bcp47Langs.dll
+0x00007ff822e40000 - 0x00007ff822e65000 	C:\Windows\SYSTEM32\globinputhost.dll
+0x00007ff845f10000 - 0x00007ff846004000 	C:\Windows\SYSTEM32\PROPSYS.dll
+0x00007ff849d10000 - 0x00007ff849d5e000 	C:\Windows\System32\CFGMGR32.dll
+0x00007ff822980000 - 0x00007ff8229e6000 	C:\Windows\system32\OLEACC.dll
+0x00007ff823140000 - 0x00007ff823434000 	C:\Windows\System32\uiautomationcore.dll
+0x00007ff849320000 - 0x00007ff8493c2000 	C:\Windows\SYSTEM32\sxs.dll
+0x00007ff835f40000 - 0x00007ff835f4d000 	C:\Windows\SYSTEM32\atlthunk.dll
+0x00007ff8318b0000 - 0x00007ff831956000 	C:\Windows\System32\StructuredQuery.dll
+0x00007ff81d0c0000 - 0x00007ff81d124000 	C:\Windows\System32\Windows.FileExplorer.Common.dll
+0x00007ff83e960000 - 0x00007ff83ec1f000 	C:\Windows\System32\iertutil.dll
+0x00007ff83e930000 - 0x00007ff83e958000 	C:\Windows\System32\srvcli.dll
+0x00007ff848a50000 - 0x00007ff848a5c000 	C:\Windows\System32\netutils.dll
+0x00007ff8291f0000 - 0x00007ff8292b7000 	C:\Windows\system32\Windows.Storage.Search.dll
+0x00007ff84b7b0000 - 0x00007ff84b829000 	C:\Windows\System32\coml2.dll
+0x00007ff8423f0000 - 0x00007ff8423fd000 	C:\Windows\SYSTEM32\LINKINFO.dll
+0x00007ff81d8e0000 - 0x00007ff81d988000 	C:\Windows\System32\twinapi.dll
+0x00007ff820c30000 - 0x00007ff820c4d000 	C:\Windows\SYSTEM32\MPR.dll
+0x00007ff816610000 - 0x00007ff81661b000 	C:\Windows\System32\drprov.dll
+0x00007ff8481e0000 - 0x00007ff84823b000 	C:\Windows\System32\WINSTA.dll
+0x00007ff811c70000 - 0x00007ff811c8f000 	C:\Windows\System32\ntlanman.dll
+0x00007ff811c50000 - 0x00007ff811c6e000 	C:\Windows\System32\davclnt.dll
+0x00007ff813850000 - 0x00007ff81385d000 	C:\Windows\System32\DAVHLPR.dll
+0x00007ff848680000 - 0x00007ff848699000 	C:\Windows\System32\wkscli.dll
+0x00007ff842460000 - 0x00007ff842472000 	C:\Windows\SYSTEM32\cscapi.dll
+0x00007ff8464c0000 - 0x00007ff846554000 	C:\Windows\SYSTEM32\apphelp.dll
+0x00007ff81cf40000 - 0x00007ff81cfbd000 	C:\Windows\SYSTEM32\ntshrui.dll
+0x00007ff8493d0000 - 0x00007ff849402000 	C:\Windows\SYSTEM32\SspiCli.dll
+0x00007fff6b9c0000 - 0x00007fff6ba16000 	C:\Windows\System32\dlnashext.dll
+0x00007ff80bcb0000 - 0x00007ff80bd14000 	C:\Windows\System32\PlayToDevice.dll
+0x00007ff82b300000 - 0x00007ff82b320000 	C:\Windows\System32\DevDispItemProvider.dll
+0x00007ff8296e0000 - 0x00007ff829826000 	C:\Windows\System32\Windows.StateRepositoryPS.dll
+0x00007ff838970000 - 0x00007ff838997000 	C:\Windows\system32\WINMM.dll
+0x00007ff838d60000 - 0x00007ff838e02000 	C:\Windows\System32\ActXPrxy.dll
+0x00007ff823440000 - 0x00007ff823449000 	C:\Program Files (x86)\Internet Download Manager\IDMShellExt64.dll
+0x00007ff8185a0000 - 0x00007ff819f36000 	C:\Program Files\Google\Drive File Stream\107.0.3.0\drivefsext.dll
+0x00007ff849a90000 - 0x00007ff849bed000 	C:\Windows\System32\CRYPT32.dll
+0x00007ff82c230000 - 0x00007ff82c706000 	C:\Windows\SYSTEM32\WININET.dll
+0x00007ff847a40000 - 0x00007ff847c24000 	C:\Windows\SYSTEM32\dbghelp.dll
+0x00007ff821970000 - 0x00007ff8219a7000 	C:\Windows\System32\EhStorShell.dll
+0x00007ff84ada0000 - 0x00007ff84b210000 	C:\Windows\System32\SETUPAPI.dll
+0x00007ff8184d0000 - 0x00007ff81859d000 	C:\Windows\System32\cscui.dll
+0x00007ff843170000 - 0x00007ff8431f9000 	C:\Windows\System32\MMDevApi.dll
+0x00007ff849100000 - 0x00007ff849133000 	C:\Windows\System32\DEVOBJ.dll
+0x00007ff849d60000 - 0x00007ff849dd3000 	C:\Windows\System32\WINTRUST.dll
+0x00007ff8490e0000 - 0x00007ff8490f2000 	C:\Windows\System32\MSASN1.dll
+0x00007ff848940000 - 0x00007ff84897b000 	C:\Windows\System32\IPHLPAPI.DLL
+0x00007ff84bb50000 - 0x00007ff84bb58000 	C:\Windows\System32\NSI.dll
+0x00007ff843890000 - 0x00007ff8438a7000 	C:\Windows\SYSTEM32\dhcpcsvc6.DLL
+0x00007ff843870000 - 0x00007ff84388d000 	C:\Windows\SYSTEM32\dhcpcsvc.DLL
+
+VM Arguments:
+jvm_args: -Xss512k -XX:PermSize=32m -Xms64m -XX:NewRatio=3 -XX:MaxPermSize=128m -Xmx512m -XX:MaxDirectMemorySize=2147400000 -Dsun.java2d.noddraw=true -Dsun.awt.nopixfmt=true -Xshare:off -Xrs -Dsun.awt.disableMixing=true -Djava.library.path=C:\Program Files\MATLAB\MATLAB Compiler Runtime\v717\bin\win64 vfprintf abort 
+java_command: <unknown>
+Launcher Type: generic
+
+Environment Variables:
+PATH=C:\Program Files\MATLAB\MATLAB Compiler Runtime\v717\bin\win64\;C:\ProgramData\Oracle\Java\javapath;E:\app\mosta\product\11.2.0\dbhome_1\bin;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\MATLAB\MATLAB Compiler Runtime\v717\runtime\win64;C:\Users\mosta\AppData\Local\Microsoft\WindowsApps;C:\Users\mosta\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\mosta\.dotnet\tools;C:\Users\mosta\AppData\Roaming\npm;C:\Users\mosta\AppData\Local\GitHubDesktop\bin
+USERNAME=mosta
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows NT 6.2 Build 9200 
+
+CPU:total 4 (8 cores per cpu, 2 threads per core) family 6 model 142 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, ht
+
+Memory: 4k page, physical 33098992k(20627520k free), swap 38079728k(23679712k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (14.3-b01) for windows-amd64 JRE (1.6.0_17-b04), built on Oct 11 2009 00:46:08 by "java_re" with MS VC++ 8.0
+
+time: Thu May 15 22:57:21 2025
+elapsed time: 0 seconds
+

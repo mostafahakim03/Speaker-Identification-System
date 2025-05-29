@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|e:\\algo\\[template] speakerid\\[template] speakerid\\mainfuctions\\sequencematching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|solutionrelative:mainfuctions\\sequencematching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\testcaseloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|solutionrelative:testcaseloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\mainfuctions\\dataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|solutionrelative:mainfuctions\\dataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Recorder||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C56C4A-57FC-48A4-A45A-DA12304D06A9}|Recorder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\GUI\\MainForm.cs",
+              "RelativeToolTip": "GUI\\MainForm.cs",
+              "ViewState": "AgIAADoCAAAAAAAAAAAlwFACAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:31:09.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestcaseLoader.cs",
+              "DocumentMoniker": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\TestcaseLoader.cs",
+              "RelativeDocumentMoniker": "TestcaseLoader.cs",
+              "ToolTip": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\TestcaseLoader.cs",
+              "RelativeToolTip": "TestcaseLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T23:33:14.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SequenceMatching.cs",
+              "DocumentMoniker": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\MainFuctions\\SequenceMatching.cs",
+              "RelativeDocumentMoniker": "MainFuctions\\SequenceMatching.cs",
+              "ToolTip": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\MainFuctions\\SequenceMatching.cs",
+              "RelativeToolTip": "MainFuctions\\SequenceMatching.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAD4v+YAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:04:37.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataOperations.cs",
+              "DocumentMoniker": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\MainFuctions\\DataOperations.cs",
+              "RelativeDocumentMoniker": "MainFuctions\\DataOperations.cs",
+              "ToolTip": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\MainFuctions\\DataOperations.cs",
+              "RelativeToolTip": "MainFuctions\\DataOperations.cs",
+              "ViewState": "AgIAAB0AAAAAgJ6ZmZnJvyYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:02:17.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\GUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "GUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:45:52.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recorder",
+              "DocumentMoniker": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\Recorder.csproj",
+              "RelativeDocumentMoniker": "Recorder.csproj",
+              "ToolTip": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\Recorder.csproj",
+              "RelativeToolTip": "Recorder.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T11:47:37.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Algo\\[TEMPLATE] SpeakerID\\[TEMPLATE] SpeakerID\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:45:45.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

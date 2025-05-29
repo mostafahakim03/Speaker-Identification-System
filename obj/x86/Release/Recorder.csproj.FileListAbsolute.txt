@@ -1,0 +1,10 @@
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.AssemblyReference.cache
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.MainForm.resources
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.Properties.Resources.resources
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.GenerateResource.cache
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.CoreCompileInputs.cache
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.AssemblyReference.cache
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.MainForm.resources
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.Properties.Resources.resources
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.GenerateResource.cache
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.CoreCompileInputs.cache

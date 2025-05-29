@@ -1,0 +1,162 @@
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.AssemblyReference.cache
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.MainForm.resources
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.Properties.Resources.resources
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.GenerateResource.cache
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CoreCompileInputs.cache
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.exe
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.pdb
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.dll
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.dll
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.dll
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.dll
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.dll
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.dll
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.dll
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.dll
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\NAudio.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.xml
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CopyComplete
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.exe
+C:\Algo Project\Last isa\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.pdb
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.exe
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.pdb
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.dll
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.dll
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.dll
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.dll
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.dll
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.dll
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.dll
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.dll
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\NAudio.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.xml
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.AssemblyReference.cache
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.MainForm.resources
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.Properties.Resources.resources
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.GenerateResource.cache
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CoreCompileInputs.cache
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.Up2Date
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.exe
+E:\Algo\last version\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.pdb
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.exe
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.pdb
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.dll
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.dll
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.dll
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.dll
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.dll
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.dll
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.dll
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.dll
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\NAudio.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.xml
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.AssemblyReference.cache
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.MainForm.resources
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.Properties.Resources.resources
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.GenerateResource.cache
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CoreCompileInputs.cache
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CopyComplete
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.exe
+C:\Algo Project\delivery\[TEMPLATE] SpeakerID (4)\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.pdb
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.exe
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.pdb
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.dll
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.dll
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.dll
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.dll
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.dll
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.dll
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.dll
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.dll
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\NAudio.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.xml
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.AssemblyReference.cache
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.MainForm.resources
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.Properties.Resources.resources
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.GenerateResource.cache
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CoreCompileInputs.cache
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.Up2Date
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.exe
+E:\Algo\[2] SPEAKER IDENTIFICATION\STARTUP CODE\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.pdb
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.exe
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.pdb
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.dll
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.dll
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.dll
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.dll
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.dll
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.dll
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.dll
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.dll
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\NAudio.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.xml
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.AssemblyReference.cache
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.MainForm.resources
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.Properties.Resources.resources
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.GenerateResource.cache
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CoreCompileInputs.cache
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CopyComplete
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.exe
+C:\Algo Project\225\[TEMPLATE] SpeakerID (5)\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.pdb
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.exe
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Recorder.pdb
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.dll
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.dll
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.dll
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.dll
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.dll
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.dll
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.dll
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.dll
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\AForge.Math.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\DocumentFormat.OpenXml.Framework.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\MWArray.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\NAudio.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\Newtonsoft.Json.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\bin\x64\Release\SharpDX.DirectSound.xml
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.AssemblyReference.cache
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.MainForm.resources
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.Properties.Resources.resources
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.GenerateResource.cache
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.CoreCompileInputs.cache
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.csproj.Up2Date
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.exe
+E:\Algo\[TEMPLATE] SpeakerID\[TEMPLATE] SpeakerID\obj\x64\Release\Recorder.pdb
