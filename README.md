@@ -2,6 +2,10 @@
 
 A desktop application built with C# and .NET Framework 4.0 that identifies speakers using audio recordings. It applies DTW (with and without pruning) and MFCC feature extraction to match test voices to a database of known recordings.
 
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/dazfkggzb/image/upload/v1748553047/Untitled_davmmh.png)
+
 #  Features
 - Record or upload audio
 - Extract MFCC features and remove silence
@@ -26,10 +30,6 @@ MFCC/                         // Feature extraction logic
 Recorder/                     // Recording functions
 GUI/                          // WinForms UI
 ```
-## Screenshots
-
-![App Screenshot](https://res.cloudinary.com/dazfkggzb/image/upload/v1748553047/Untitled_davmmh.png)
-
 
 ## Documentation
 
